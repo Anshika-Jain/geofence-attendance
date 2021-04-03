@@ -1,3 +1,4 @@
+An angular app with mapbox integration to find the user's current location and check whether he/she lies in the geofenced area or not.
 # GeofenceAttendance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.1.
