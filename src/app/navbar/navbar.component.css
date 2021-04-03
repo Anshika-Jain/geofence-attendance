@@ -1,0 +1,23 @@
+.container{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .navbar{
+    background-color: beige;
+  }
+
+  .bottom-text{
+   
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .bottom-text a{
+    color: #D50000;
+    text-decoration: underline;
+  }
+
+  
